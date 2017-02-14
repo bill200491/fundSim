@@ -1,3 +1,4 @@
 kate elliot.mutual/dailyMutual.sh  elliot.mutual/fundList.json 
-kate elliot.mutual/161101/simList.json  elliot.mutual/161101/report/jpmorgan.* elliot.mutual/170101/simList.json  elliot.mutual/170101/report/jpmorgan.*
-
+kate elliot.mutual/161101/simList.json elliot.mutual/161101/report/jpmorgan.* elliot.mutual/170101/simList.json  elliot.mutual/170101/report/jpmorgan.*
+kate elliot.mutual/170201/simList.json elliot.mutual/170201/report/jpmorgan.*
+kate elliot.currency/170201/simList.json
