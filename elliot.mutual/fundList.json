@@ -2,27 +2,27 @@
     "jpmorgan":[
         {"units":53.305,  "cost":2512.14,  "minPay":2500, "slvRlt":"170101", "name":"JPMorgan Korea (acc) - USD" },
         {"units":60.759,  "cost":2510.25,  "minPay":2500, "slvRlt":"161101", "name":"JPM Europe Equity A (dist) USD" },
+        {"units":208.744, "cost":2510.75,  "minPay":2500, "slvRlt":"170201", "name":"JPM US Aggregate Bond A (inc) USD" },
         {"units":608.983, "cost":9805.55,  "minPay":2500, "slvRlt":"170101", "name":"JPM Global Corp Bd A (acc) USD" },
         {"units":54.027,  "cost":8972.47,  "minPay":2500, "slvRlt":"170101", "name":"JPM Global Income A (acc) USD" },
         {"units":18.426,  "cost":2510,     "minPay":2500, "slvRlt":"170101", "name":"JPM Europe Dynamic A (acc) USD" },
-        {"units":13.224,  "cost":2004.4,   "minPay":2500, "slvRlt":"161101", "name":"JPM America Equity A (dist) USD" },
-        {"units":45.068,  "cost":8951.14,  "minPay":2500, "slvRlt":"170101", "name":"JPM US Smlr Coms A (dist) perf USD" },
-        {"units":282.868, "cost":3105.89,  "minPay":2500, "slvRlt":"161101", "name":"JPM US Technology A (dist) USD" },
+        {"units":13.224,  "cost":2004.4,   "minPay":2500, "slvRlt":"170201", "name":"JPM America Equity A (dist) USD" },
+        {"units":81.531,  "cost":16483.39, "minPay":2500, "slvRlt":"170101", "name":"JPM US Smlr Coms A (dist) perf USD" },
         {"units":240.33,  "cost":6020.4,   "minPay":2500, "slvRlt":"170101", "name":"JPM US Value A (dist) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"161101", "name":"JPM Latin America Eq A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPMorgan ASEAN (acc) - USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPM Global High Yield Bd A (acc) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPM US Growth A (dist) USD" },
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPM China A (dist) USD" },
-        {"units":0.0,      "cost":0.001,   "minPay":2500, "slvRlt":"170101", "name":"JPM Greater China A (dist) USD" },
-        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170201", "name":"JPM US Aggregate Bond A (inc) USD" }
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"161101", "name":"JPM US Technology A (dist) USD" },
+        {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"170101", "name":"JPM Greater China A (dist) USD" }
     ],
     "fidelity":[
         {"units":0.0,     "cost":0.001,    "minPay":2500, "slvRlt":"161101", "name":"Fidelity Latin America A-USD" }
     ],
     "account":{
         "jpmorgan":
-        {"buffer":115392.12, "principal":160000.00, "minReturn":0.10, "leverage":2.5, "payMode":"cost"}
+        {"buffer":108819.43, "principal":160000.00, "minReturn":0.10, "leverage":2.5, "payMode":"cost"}
     }
     
 }
